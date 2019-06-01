@@ -1,7 +1,15 @@
-h1 {
-  margin-left: 15%;
+head {
+  background-color: black;
+  font-color: white;
 }
 
 body {
+  background-color: black;
   margin-left: 8%;
+  font-color: white;
+}
+
+h1 {
+  margin-left: 15%;
+  font-color: white;
 }
